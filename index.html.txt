@@ -7,7 +7,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
     <style>
      img{
-      border-radius: 50%;
+      //border-radius: 50%;
       width: 25%;
      }
      #picture{
@@ -39,9 +39,14 @@
      a{
       color : rgb(249, 249, 252);
      }
+     h1{
+      color: white;
+      font-weight: bold;
+     }
     </style>
   </head>
   <body>
+    <h1>Hi I'm Huzefa</h1>
     <div id="picture"><img src="https://raw.githubusercontent.com/huzefa-taher/Website/master/IMG_3010.jpg" alt="Huzefa Taher in purple dress shirt"></div>
     <div id="about">
     <h2>Personal Links</h2>
@@ -63,8 +68,13 @@
     <h2>Personal Projects</h2>
     <p>
       I have created two games in Unity C#. Both are still work in progress games, but they do function. I created a Platformer game with the help of Wolverine Soft, an organization I am a part of. I have also created a 3D cube runner like game with the help of online tutorials, the credit for the game goes to the Youtuber: brackeys. <br><br>
+      <img src="https://raw.githubusercontent.com/huzefa-taher/Website/master/first%20project%20unity.JPG" alt="Picture of Unity screen">
+      <p>      </p>
+      <img src="https://raw.githubusercontent.com/huzefa-taher/Website/master/first%20game.JPG" alt="picture of unity game"><br><br>
       On my own, I created a painting app from scratch using HTML, CSS and JavaScript. Using client X and Y in JavaScript along with a few buttons, the app allows you to draw cool pictures on a yellow canvas with a variety of colors.<br><br>
-      I also got some python experience when I made a number writter program. The program took an integer input and then translated the number into words.<br><br>
+      <img src="https://raw.githubusercontent.com/huzefa-taher/Website/master/painting%20app.JPG" alt="Picture of my painting app"><br><br>
+      I also got some python experience when I made a number writter program. The program took an integer input and then translated the number into words<br><br>
+      <img src="https://raw.githubusercontent.com/huzefa-taher/Website/master/python%20number%20writter.JPG" alt="picture of python number writter on console"><br><br>      
       Finally, I have created this website from scratch as well. <br><br>
       Along with my personal creations, I have also created a variety of school projects which include a Connect 4 AI along with a forum classification machine learning program. Both were written in C++.
 
