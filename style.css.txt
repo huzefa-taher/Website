@@ -1,0 +1,33 @@
+img{
+  border-radius: 50%;
+  width: 25%;
+}
+#picture{
+  right: 500px;
+}
+#about{
+  font-family: 'Courier New', Courier, monospace;
+}
+h2{
+  background-color: purple;
+}
+body{
+  background-color: rgb(92, 85, 85);
+}
+body{
+  color: white;
+}
+ul{
+  font-weight: bold;
+  color: orange;
+}
+strong{
+  color: orange;
+}
+#bold{
+  font-weight: bold;
+  color:orange;
+}
+a{
+  color : rgb(249, 249, 252);
+}
